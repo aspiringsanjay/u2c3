@@ -1,0 +1,22 @@
+/* Fill CSS here */
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color:teal;
+}
+div{
+    display:flex;
+}
+div>input{
+    padding:0px 10px 0px 10px;
+    background-color: teal;
+
+}
+table{
+    border:1px solid black;
+    margin-left: 250px;
+}
+thead>tr{
+    background-color: teal;
+    color:white;
+}
